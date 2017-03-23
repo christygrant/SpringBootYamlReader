@@ -1,0 +1,16 @@
+nodes:
+  production:
+  - name: 'ucsd'
+    host: 'ucsdhostname'
+  - name: 'ncar'
+    host: 'ncarhostname'
+  - name: 'umiacs'
+    host: 'umiacshostname'
+  test:
+  - name: 'test1'
+    host: 'test1hostname'
+  - name: 'test2'
+    host: 'test2hostname'
+  dpn:
+  - name: 'dpn'
+    host: 'dpnhostname'
